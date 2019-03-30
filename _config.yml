@@ -1,9 +1,9 @@
 # site settings
 title: Josiah Laivins
 subtitle: Robotics and AI
-email: 
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/" # the subpath of your site, e.g. /blog
+email: jlaivins@uncc.edu
+description: I am an aspiring roboticist. I hope to change the world some day.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Josiah Laivins
 street_address: 
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: https://gitlab.com/u/josiahls
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/josiah-laivins-38605a113/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # build settings
 markdown: kramdown
